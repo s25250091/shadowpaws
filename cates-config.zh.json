@@ -19,9 +19,11 @@
       { "id": "m1", "slug": "trending.movie", "name": { "en": "Now Trending", "zh": "正在热门" } },
       { "id": "m2", "slug": "latest.movie.china", "name": { "en": "Chinese Movies", "zh": "华语电影" } },
       { "id": "m3", "slug": "latest.movie.us", "name": { "en": "Hollywood", "zh": "美国电影" } },
-      { "id": "m4", "slug": "latest.movie.jp-kr", "name": { "en": "Japanese Korean Movies", "zh": "日韩电影" } },
+      { "id": "m4", "slug": "latest.movie.kr", "name": { "en": "Korean Movies", "zh": "韩国电影" } },
+      { "id": "m8", "slug": "latest.movie.jp", "name": { "en": "Japanese Movies", "zh": "日国电影" } },
       { "id": "m5", "slug": "latest.movie.hk", "name": { "en": "Hong Kong Movies", "zh": "香港电影" } },
-      { "id": "m6", "slug": "latest.movie.other", "name": { "en": "Other Movies", "zh": "其他电影" } }
+      { "id": "m6", "slug": "latest.movie.other", "name": { "en": "Other Movies", "zh": "其他电影" } },
+      { "id": "m7", "slug": "latest.movie.ai", "name": { "en": "AI Movies", "zh": "AI电影" } }
     ]
   },
   {
@@ -44,11 +46,12 @@
     "name": { "en": "Animations", "zh": "动漫" },
     "children": [
       { "id": "a1", "slug": "trending.animation", "name": { "en": "Top Picks", "zh": "精选动漫" } },
-      { "id": "a2", "slug": "latest.animation.china", "name": { "en": "Chinese Animations", "zh": "华语动漫" } },
-      { "id": "a3", "slug": "latest.animation.japan", "name": { "en": "Japanese Animations", "zh": "日本动漫" } },
-      { "id": "a4", "slug": "latest.animation.us", "name": { "en": "Japanese Animations", "zh": "美国动漫" } },
-      { "id": "a5", "slug": "latest.animation.other", "name": { "en": "Other Animations", "zh": "其他动漫" } },
-      { "id": "a6", "slug": "latest.animated-comic", "name": { "en": "Animated Comics", "zh": "动态漫画" } }
+      { "id": "a2", "slug": "latest.animation.china", "name": { "en": "Chinese Anime", "zh": "华语动漫" } },
+      { "id": "a3", "slug": "latest.animation.japan", "name": { "en": "Japanese Anime", "zh": "日本动漫" } },
+      { "id": "a4", "slug": "latest.animation.us", "name": { "en": "US Anime", "zh": "美国动漫" } },
+      { "id": "a5", "slug": "latest.animation.other", "name": { "en": "Other Anime", "zh": "其他动漫" } },
+      { "id": "a6", "slug": "latest.animated-comic", "name": { "en": "Animated Comics", "zh": "动态漫画" } }，
+      { "id": "a6", "slug": "latest.animation.ai", "name": { "en": "AI Anime", "zh": "AI漫画" } 
     ]
   },
   {
