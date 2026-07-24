@@ -50,7 +50,7 @@
       { "id": "a3", "slug": "latest.animation.japan", "name": { "en": "Japanese Anime", "zh": "日本动漫" } },
       { "id": "a4", "slug": "latest.animation.us", "name": { "en": "US Anime", "zh": "美国动漫" } },
       { "id": "a5", "slug": "latest.animation.other", "name": { "en": "Other Anime", "zh": "其他动漫" } },
-      { "id": "a6", "slug": "latest.animated-comic", "name": { "en": "Animated Comics", "zh": "动态漫画" } }，
+      { "id": "a6", "slug": "latest.animated-comic", "name": { "en": "Animated Comics", "zh": "动态漫画" } },
       { "id": "a6", "slug": "latest.animation.ai", "name": { "en": "AI Anime", "zh": "AI漫画" } 
     ]
   },
