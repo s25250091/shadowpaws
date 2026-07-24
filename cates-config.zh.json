@@ -20,7 +20,7 @@
       { "id": "m2", "slug": "latest.movie.china", "name": { "en": "Chinese Movies", "zh": "华语电影" } },
       { "id": "m3", "slug": "latest.movie.us", "name": { "en": "Hollywood", "zh": "美国电影" } },
       { "id": "m4", "slug": "latest.movie.kr", "name": { "en": "Korean Movies", "zh": "韩国电影" } },
-      { "id": "m8", "slug": "latest.movie.jp", "name": { "en": "Japanese Movies", "zh": "日国电影" } },
+      { "id": "m8", "slug": "latest.movie.jp", "name": { "en": "Japanese Movies", "zh": "日本电影" } },
       { "id": "m5", "slug": "latest.movie.hk", "name": { "en": "Hong Kong Movies", "zh": "香港电影" } },
       { "id": "m6", "slug": "latest.movie.other", "name": { "en": "Other Movies", "zh": "其他电影" } },
       { "id": "m7", "slug": "latest.movie.ai", "name": { "en": "AI Movies", "zh": "AI电影" } }
