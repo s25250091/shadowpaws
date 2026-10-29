@@ -37,7 +37,7 @@
       { "id": "t4", "slug": "latest.tv-show.kr", "name": { "en": "Korean Drama", "zh": "韩剧" } },
       { "id": "t7", "slug": "latest.tv-show.jp", "name": { "en": "Japanese Drama", "zh": "日剧" } },
       { "id": "t5", "slug": "latest.tv-show.hk", "name": { "en": "Hong Kong Drama", "zh": "港剧" } },
-      { "id": "t6", "slug": "latest.tv-show.other", "name": { "en": "Other Drama", "zh": "其他剧集" } }
+      { "id": "t6", "slug": "latest.tv-show.other", "name": { "en": "Other Drama", "zh": "其他剧集" } },
       { "id": "t8", "slug": "latest.tv-show.ai", "name": { "en": "AI Drama", "zh": "AI剧" } }
     ]
   },
